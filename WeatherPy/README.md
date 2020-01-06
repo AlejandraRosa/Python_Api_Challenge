@@ -1,4 +1,4 @@
-* WeatherPy Observations
+# WeatherPy Observations
 
 
 City Latitude vs Max Temperature(F)
