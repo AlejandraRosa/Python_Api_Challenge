@@ -20,6 +20,7 @@ We notice more cities in general have higher humidity levels vs lower, but there
 
 ![Lat_vs_cloud](https://github.com/AlejandraRosa/Python_Api_Challenge/blob/master/WeatherPy/output_data/cloudiness_latitude.png)
 
+When analyzing Latitude vs Cloudiness, we do not see a relatinship between latitude and cloudiness. When comparing diffferent cities that fall within the same latitude, we see a wide range of cloudiness percentage, both on the extreme high and extreme low ends. 
 
 ## City Latitude vs Wind Speed (mph)
 
