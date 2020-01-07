@@ -27,6 +27,9 @@ When analyzing Latitude vs Cloudiness, we do not see a relationship between lati
 
 ![Lat_vs_wind](https://github.com/AlejandraRosa/Python_Api_Challenge/blob/master/WeatherPy/output_data/wind_latitude.png)
  
-All cities fall within the 0-25 mpH wind speed with with only one outlier - Nanortalik, Greenland (46.64 mph wind speed). Similar to Humidity and Cloudiness plots, we don't necesarily see a relationship between Latitude and Wind Speed.
+All cities fall within the 0-25 mpH wind speed with with only one outlier - Nanortalik, Greenland* (46.64 mph wind speed). Similar to Humidity and Cloudiness plots, we don't necesarily see a relationship between Latitude and Wind Speed.
 
+
+
+*"Actual" footage of a cat in Nanortalik, Greenland: https://media1.tenor.com/images/0a4478dc551fca67b997262887f846a0/tenor.gif?itemid=5212706
 
